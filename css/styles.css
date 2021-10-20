@@ -1,0 +1,90 @@
+body {
+  background-color: rgb(114, 215, 240);
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+}
+
+.croc {
+  width: 30%;
+  float:left;
+  border: solid black;
+  background-color:lightgreen;
+}
+.croc h3 {
+  color: green;
+}
+.croc img {
+  max-width:60%;
+  max-height:60%;
+}
+
+.croc p {
+  text-align: center;
+  text-color: rgb(6, 58, 6);
+  font-weight: bold;
+}
+
+
+.rabbit {
+  width: 30%;
+  float: left;
+  border: solid rgb(56, 2, 56);
+  background-color: rgb(236, 148, 236);
+}
+.rabbit img {
+  max-width:60%;
+  max-height:60%;
+}
+
+.rabbit p {
+  font-style: italic;
+  font-weight: lighter;
+}
+
+  
+.dog {
+  border: 2px solid black;
+  width: 30%;
+  float: left;
+  font-style: oblique;
+  background-color: burlywood;
+
+}
+.dog h3 {
+  color: rgb(170, 119, 53);
+}
+.dog p {
+  text-align: center;
+}
+.dog img {
+  max-width:50%;
+  max-height:50%;
+}
+
+.cat {
+  width: 30%;
+  float: left;
+  border: 2px solid black;
+  background-color: thistle;
+
+}
+.cat h3 {
+  color: indianred;
+}
+.cat p {
+  text-align: center;
+}
+.cat img {
+  max-width:60%;
+  max-height:60%;
+}
+
+
+.adopted {
+  float:right;
+  font-family: sans-serif;
+  font-size: larger;
+  font-weight: bolder;
+  color:sienna;
+  background-color: thistle;
+}
